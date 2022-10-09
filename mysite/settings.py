@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-ww^)1g9gnmn+=7^t-m+)-!pw(zp1mkxz2g-2d2m-+^o-t(j6e6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["cpiclubapp-dev.eba-v4mdibr3.us-east-1.elasticbeanstalk.com"]
 
 
 # Application definition
